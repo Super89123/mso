@@ -1,0 +1,12 @@
+name: MSO
+version: '1.0-SNAPSHOT'
+main: msotest._.mso
+api-version: 1.19
+prefix: §4MSO
+load: STARTUP
+authors: [ Super89 ]
+description: Its test plugin from Super89
+commands:
+  rabbits:
+    description: 3 go to rabbits
+    usage: /<command> тебе это не надо ?

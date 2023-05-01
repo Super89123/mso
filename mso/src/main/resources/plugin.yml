@@ -1,0 +1,12 @@
+name: MSO
+version: '${project.version}'
+main: msotest._.mso
+api-version: 1.19
+prefix: §4MSO
+load: STARTUP
+authors: [ Super89 ]
+description: Its test plugin from Super89
+commands:
+  rabbits:
+    description: ${project.artifactId} go to rabbits
+    usage: /<command> тебе это не надо ?
